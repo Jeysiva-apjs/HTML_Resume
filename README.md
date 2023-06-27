@@ -1,5 +1,5 @@
 # HTML_Resume
 
-I have build my resume only using HTML.
+I have built my resume only using HTML.
 
-Here is the result -> https://github.com/Jeysiva-apjs/HTML_Resume.git
+Here is the result: [https://github.com/Jeysiva-apjs/HTML_Resume.git](https://jeysiva-apjs.github.io/HTML_Resume/)https://jeysiva-apjs.github.io/HTML_Resume/
